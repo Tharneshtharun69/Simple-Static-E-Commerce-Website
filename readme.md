@@ -1,14 +1,14 @@
 # E-Commerce Website
 # Welcome to the repository.
-# Home
+# Home:
 In home section you will be able to see the logo of the company and an announcement bar.
-# About
+# About:
 In About section you will be able to know about the company.
-# Products
+# Products:
 In Products section you will be able to see the products and price details.
-# Delivery
+# Delivery:
 In Delivery section you will be able to see for which locations we can deliver the products.
-# Contact
+# Contact:
 In Contact section you will be able to find our contact details and a link to the google map which shows the location to visit our company.
 # Folder Structure
 ├── index.html
@@ -29,7 +29,9 @@ index.html: The main HTML file that contains the structure and content of the we
 assets/css/style.css: The CSS file that contains styles for the website.
 assets/img/: A folder containing images used on the website.
 assets/js/script.js: The JavaScript file that contains interactive functionalities for the website.
-# Technologies Used
+# Technologies Used:
 HTML5
 CSS3
 JavaScript
+# Live Link to the Website:
+https://static-ecommerce-website.netlify.app/
